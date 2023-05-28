@@ -1,0 +1,21 @@
+{
+  "name": "orderonlinetest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^8.0.1",
+    "cypress": "^12.13.0",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-mailosaur": "^2.13.0"
+  },
+  "dependencies": {
+    "mailosaur": "^8.6.1",
+    "mailslurp-client": "^15.17.1"
+  }
+}
